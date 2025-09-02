@@ -16,4 +16,5 @@ Download the branch commit (Code > Download ZIP) of the following table to get t
 Script Version - Commit - Tested successfully with VistaSEPMods version
 
 1.0: eb2fb8e - 1.15
+
 1.0.1: fddfcbc - 1.15
