@@ -58,10 +58,10 @@ set VistaPEZAPI_Settings to lexicon(
 	"v2_fwdleft", list("VS.25.BL2.FLAP.LEFT","SEP.25.SHIP.FWD.LEFT","SEP.25.SHIP.CORE","SEP.25.SHIP.BODY"),
 	"v3_fwdleft", list("VS.25.BL3.FLAP.LEFT","SEP.26.SHIP.FWD.LEFT","SEP.26.SHIP.CORE","SEP.26.SHIP.BODY"),
 
-
-	"v1_chance", 1/4*(4/1),
-	"v2_chance", 1/2*(2/1),
-	"v3_chance", 99/100*(100/99),
+	// Door failure chance
+	"v1_chance", 1/4*(4/1)*0,
+	"v2_chance", 1/2*(2/1)*0,
+	"v3_chance", 99/100*(100/99)*0,
 
 
 
@@ -895,6 +895,7 @@ function VistaPEZAPI_run {
 
 
 //wait 3.
+
 
 
 
