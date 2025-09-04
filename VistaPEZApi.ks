@@ -19,7 +19,7 @@ set VistaPEZAPI_Settings to lexicon(
 
 	"requireOpenDoor", not true,
 
-	"waitTime", 0.5+*6,                          // Additional wait time between deployments in s
+	"waitTime", 0.5*6,                          // Additional wait time between deployments in s
 
 
 
@@ -895,6 +895,7 @@ function VistaPEZAPI_run {
 
 
 //wait 3.
+
 
 
 
