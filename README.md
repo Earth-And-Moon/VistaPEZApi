@@ -18,4 +18,5 @@ Script Version - Commit - Tested successfully or meant to be used with VistaSEPM
 1.0: eb2fb8e - 1.15
 
 1.0.1: fddfcbc - 1.15 (door fail chances to 0)
+
 1.0.2: ece6fad - 1.15 (increased wait times)
