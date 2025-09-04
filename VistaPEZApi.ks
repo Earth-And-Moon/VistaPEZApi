@@ -19,13 +19,13 @@ set VistaPEZAPI_Settings to lexicon(
 
 	"requireOpenDoor", not true,
 
-	"waitTime", 0.5,                          // Additional wait time between deployments in s
+	"waitTime", 0.5+*6,                          // Additional wait time between deployments in s
 
 
 
 
 
-	"deployWait", 0.3,                        // additional wait time between decoupling sat and raising the dispenser. Helps getting around a bug where the sat flies up.
+	"deployWait", 0.3*10,                        // additional wait time between decoupling sat and raising the dispenser. Helps getting around a bug where the sat flies up.
 
 	// Advanced things which should not be touched unless you know what you're doing!
 
@@ -895,6 +895,7 @@ function VistaPEZAPI_run {
 
 
 //wait 3.
+
 
 
 
