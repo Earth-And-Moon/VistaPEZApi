@@ -13,8 +13,9 @@ and wait until it concludes
 
 Download the branch commit (Code > Download ZIP) of the following table to get the version:
 
-Script Version - Commit - Tested successfully with VistaSEPMods version
+Script Version - Commit - Tested successfully or meant to be used with VistaSEPMods version
 
 1.0: eb2fb8e - 1.15
 
-1.0.1: fddfcbc - 1.15
+1.0.1: fddfcbc - 1.15 (door fail chances to 0)
+1.0.2: ece6fad - 1.15 (increased wait times)
